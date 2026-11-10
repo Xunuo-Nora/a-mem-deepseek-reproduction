@@ -1,0 +1,8 @@
+{
+  "notes": 5,
+  "calls": 16,
+  "seconds": 18.371156791923568,
+  "prompt_tokens": 7108,
+  "completion_tokens": 1379,
+  "failures": {}
+}

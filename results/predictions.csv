@@ -1,0 +1,181 @@
+trial,k,question_index,category,question,reference,prediction,seconds,f1,exact_match
+0,10,0,2,When Jon has lost his job as a banker?,"19 January, 2023","Yesterday, 20 January, 2023",2.228870915947482,0.5714285714285714,0
+0,5,0,2,When Jon has lost his job as a banker?,"19 January, 2023","Yesterday, 19 January, 2023",2.1739881669636816,0.8571428571428571,0
+0,5,1,2,When Gina has lost her job at Door Dash?,"January, 2023","20 January, 2023",1.6262782500125468,0.8,0
+0,10,1,2,When Gina has lost her job at Door Dash?,"January, 2023","20 January, 2023",1.7439248331356794,0.8,0
+0,10,2,4,How do Jon and Gina both like to destress?,by dancing,Dance,2.352485042065382,0.0,0
+0,5,2,4,How do Jon and Gina both like to destress?,by dancing,dance,1.7770065001677722,0.0,0
+0,5,3,1,What do Jon and Gina both have in common?,They lost their jobs and decided to start their own businesses.,Dance,1.6310880419332534,0.0,0
+0,10,3,1,What do Jon and Gina both have in common?,They lost their jobs and decided to start their own businesses.,Dance,1.8902039579115808,0.0,0
+0,5,5,1,What Jon thinks the ideal dance studio should look like?,"By the water, with natural light and Marley flooring",Room with a view of the ocean and a few yoga mats,1.8515184160787612,0.3,0
+0,10,5,1,What Jon thinks the ideal dance studio should look like?,"By the water, with natural light and Marley flooring",by the water,1.483642291976139,0.5,0
+0,10,6,2,When is Jon's group performing at a festival?,"February, 2023",Next month,1.6291210409253836,0.0,0
+0,5,6,2,When is Jon's group performing at a festival?,"February, 2023",Next month,2.0141834998503327,0.0,0
+0,5,9,1,Which city have both Jean and John visited?,Rome,Paris,1.2592866660561413,0.0,0
+0,10,9,1,Which city have both Jean and John visited?,Rome,Paris,2.332371124997735,0.0,0
+0,5,11,2,When did Gina get her tattoo?,A few years ago,"8 February, 2023",1.8347062920220196,0.0,0
+0,10,11,2,When did Gina get her tattoo?,A few years ago,A few years ago,1.9088159580715,1.0,1
+0,10,12,2,When did Jon start to go to the gym?,"March, 2023",Last week,1.4180200828704983,0.0,0
+0,5,12,2,When did Jon start to go to the gym?,"March, 2023","Last week (16 March, 2023)",1.537027999991551,0.2857142857142857,0
+0,5,17,1,Why did Gina decide to start her own clothing store?,She always loved fashion trends and finding unique pieces and she lost her job so decided it was time to start her own business.,I lost my job,2.1188536658883095,0.16,0
+0,10,17,1,Why did Gina decide to start her own clothing store?,She always loved fashion trends and finding unique pieces and she lost her job so decided it was time to start her own business.,starting my own store and taking risks is both scary and rewarding,2.0318178748711944,0.125,0
+0,10,18,1,Do Jon and Gina start businesses out of what they love?,Yes,"Yes, dancing passion into a business",2.1365298749879003,0.2857142857142857,0
+0,5,18,1,Do Jon and Gina start businesses out of what they love?,Yes,"Yes, out of passion for dancing and clothing",2.260778790805489,0.2222222222222222,0
+0,10,20,2,When did Gina get accepted for the design internship?,"27 May, 2023","27 May, 2023",1.4460866248700768,1.0,1
+0,5,20,2,When did Gina get accepted for the design internship?,"27 May, 2023","11 May, 2023",1.7014934998005629,0.6666666666666666,0
+0,5,23,1,How did Gina promote her clothes store?,"worked with an artist to make unique fashion pieces, made limited-edition sweatshirts, got some new offers and promotions for online store, developed a video presentation showing how to style her pieces",Working with fashion bloggers and influencers and doing more ads,1.4465061670634896,0.15789473684210525,0
+0,10,23,1,How did Gina promote her clothes store?,"worked with an artist to make unique fashion pieces, made limited-edition sweatshirts, got some new offers and promotions for online store, developed a video presentation showing how to style her pieces",influencer collaborations and advertising,1.3442958339583129,0.06060606060606061,0
+0,10,24,1,Which events has Jon participated in to promote his business venture?,"fair, networking events, dance competition",networking events,1.393967208918184,0.5714285714285714,0
+0,5,24,1,Which events has Jon participated in to promote his business venture?,"fair, networking events, dance competition",networking events,1.537211833987385,0.5714285714285714,0
+0,10,26,2,When did Jon receive mentorship to promote his venture?,"15 June, 2023","9 July, 2023",2.398020082851872,0.3333333333333333,0
+0,5,26,2,When did Jon receive mentorship to promote his venture?,"15 June, 2023","9 July, 2023",1.7385424578096718,0.3333333333333333,0
+0,5,27,1,Did Jon and Gina both participate in dance competitions?,Yes,"Yes, both participated in dance competitions.",2.0551087919157,0.2857142857142857,0
+0,10,27,1,Did Jon and Gina both participate in dance competitions?,Yes,Jon participated in a dance competition; Gina was asked about it but her participation is not confirmed.,1.819782624952495,0.0,0
+0,5,29,1,Which cities has Jon visited?,"Paris, Rome",Not enough information to answer.,2.2683397920336574,0.0,0
+0,10,29,1,Which cities has Jon visited?,"Paris, Rome","Based on the context, there is no information about which cities Jon has visited.",1.4961193329654634,0.0,0
+0,10,30,2,When Jon is planning to open his dance studio?,"20 June, 2023","19 June, 2023",2.512641208944842,0.6666666666666666,0
+0,5,30,2,When Jon is planning to open his dance studio?,"20 June, 2023",Around 19 June 2023,1.822622625157237,0.5714285714285714,0
+0,5,31,1,How long did it take for Jon to open his studio?,six months,over a year,1.4200969168450683,0.0,0
+0,10,31,1,How long did it take for Jon to open his studio?,six months,Since we last spoke,1.667191624874249,0.0,0
+0,5,33,2,When did Jon visit networking events for his store?,"20 June, 2023",Yesterday,1.8514910419471562,0.0,0
+0,10,33,2,When did Jon visit networking events for his store?,"20 June, 2023","Yesterday (21 June, 2023)",1.4885608342010528,0.2857142857142857,0
+0,5,35,2,When did Jon start learning marketing and analytics tools?,"July, 2023",9 July 2023,1.4163807090371847,0.8,0
+0,10,35,2,When did Jon start learning marketing and analytics tools?,"July, 2023","9 July, 2023",1.9248987501487136,0.8,0
+0,5,47,4,"What did Gina find for her clothing store on 1 February, 2023?",The perfect spot for her store,wholesalers,1.4019526250194758,0.0,0
+0,10,47,4,"What did Gina find for her clothing store on 1 February, 2023?",The perfect spot for her store,perfect spot,2.2255700828973204,0.5,0
+0,5,51,4,What made Gina choose the furniture and decor for her store?,personal style and customer comfort,to make the place look like my own style and make my customers feel cozy,2.0483477499801666,0.2222222222222222,0
+0,10,51,4,What made Gina choose the furniture and decor for her store?,personal style and customer comfort,To make customers feel cozy and reflect her own style,1.6820852919481695,0.26666666666666666,0
+0,10,54,4,How is Gina's store doing?,The store is doing great.,store looks great,1.6196312920656055,0.5,0
+0,5,54,4,How is Gina's store doing?,The store is doing great.,great spot,1.2878454579040408,0.2857142857142857,0
+0,5,63,4,"What kind of professional experience did Gina get accepted for on May 23, 2023?",fashion internship,fashion internship,1.2295138330664486,1.0,1
+0,10,63,4,"What kind of professional experience did Gina get accepted for on May 23, 2023?",fashion internship,fashion internship,2.081083416007459,1.0,1
+0,10,64,4,Where is Gina's fashion internship?,fashion department of an international company,Not specified in the context,1.6998611250892282,0.0,0
+0,5,64,4,Where is Gina's fashion internship?,fashion department of an international company,Not specified in the context,1.72992212488316,0.0,0
+0,5,65,4,What book is Jon currently reading?,The Lean Startup,Not mentioned in the context,1.3440169161185622,0.25,0
+0,10,65,4,What book is Jon currently reading?,The Lean Startup,Not mentioned in the context.,1.2991529169958085,0.25,0
+0,5,71,4,How does Gina describe the studio that Jon has opened?,amazing,The studio looks amazing,1.2207784170750529,0.4,0
+0,10,71,4,How does Gina describe the studio that Jon has opened?,amazing,amazing,2.127676625037566,1.0,1
+0,10,74,4,What does Jon plan to do at the grand opening of his dance studio?,savor all the good vibes,Not enough information in the context to answer.,1.9920119589660317,0.15384615384615385,0
+0,5,74,4,What does Jon plan to do at the grand opening of his dance studio?,savor all the good vibes,Invite Gina to attend a night of creative and fun dance performances with judging featuring his studio and other schools,1.932764375116676,0.0,0
+0,10,78,4,"According to Gina, what makes Jon a perfect mentor and guide?",His positivity and determination,His passion for bringing joy to others,1.3269691669847816,0.18181818181818182,0
+0,5,78,4,"According to Gina, what makes Jon a perfect mentor and guide?",His positivity and determination,His positivity and determination,2.1137530421838164,1.0,1
+1,5,0,2,When Jon has lost his job as a banker?,"19 January, 2023","20 January, 2023",1.7084150419104844,0.6666666666666666,0
+1,10,0,2,When Jon has lost his job as a banker?,"19 January, 2023","Yesterday (20 January, 2023)",1.3855513338930905,0.2857142857142857,0
+1,10,1,2,When Gina has lost her job at Door Dash?,"January, 2023","20 January, 2023",1.7326314998790622,0.8,0
+1,5,1,2,When Gina has lost her job at Door Dash?,"January, 2023","This month (20 January, 2023)",1.4621697911061347,0.2857142857142857,0
+1,5,2,4,How do Jon and Gina both like to destress?,by dancing,dance,1.4944968749769032,0.0,0
+1,10,2,4,How do Jon and Gina both like to destress?,by dancing,dance,1.4826850001700222,0.0,0
+1,10,3,1,What do Jon and Gina both have in common?,They lost their jobs and decided to start their own businesses.,Chasing our dreams and helping each other out,1.4204558751080185,0.1111111111111111,0
+1,5,3,1,What do Jon and Gina both have in common?,They lost their jobs and decided to start their own businesses.,dance,1.5534739580471069,0.0,0
+1,10,5,1,What Jon thinks the ideal dance studio should look like?,"By the water, with natural light and Marley flooring",a room with a view of the ocean and a few yoga mats,1.9471515000332147,0.3,0
+1,5,5,1,What Jon thinks the ideal dance studio should look like?,"By the water, with natural light and Marley flooring",by the water,1.6270149168558419,0.5,0
+1,5,6,2,When is Jon's group performing at a festival?,"February, 2023",Next month,1.8801121669821441,0.0,0
+1,10,6,2,When is Jon's group performing at a festival?,"February, 2023",Next month,1.144789749989286,0.0,0
+1,10,9,1,Which city have both Jean and John visited?,Rome,Paris,1.8780181668698788,0.0,0
+1,5,9,1,Which city have both Jean and John visited?,Rome,Rome,1.7943829998839647,1.0,1
+1,10,11,2,When did Gina get her tattoo?,A few years ago,A few years ago,1.6649561668746173,1.0,1
+1,5,11,2,When did Gina get her tattoo?,A few years ago,"8 February, 2023",1.4211222080048174,0.0,0
+1,5,12,2,When did Jon start to go to the gym?,"March, 2023",16 March 2023,1.6351026250049472,0.8,0
+1,10,12,2,When did Jon start to go to the gym?,"March, 2023",Last week,2.1502286659087986,0.0,0
+1,10,17,1,Why did Gina decide to start her own clothing store?,She always loved fashion trends and finding unique pieces and she lost her job so decided it was time to start her own business.,lost my job at Door Dash,1.950114917010069,0.14814814814814814,0
+1,5,17,1,Why did Gina decide to start her own clothing store?,She always loved fashion trends and finding unique pieces and she lost her job so decided it was time to start her own business.,after losing her job,1.724832042120397,0.16,0
+1,5,18,1,Do Jon and Gina start businesses out of what they love?,Yes,Yes,1.2689305830281228,1.0,1
+1,10,18,1,Do Jon and Gina start businesses out of what they love?,Yes,"Yes, Jon's dance studio from passion for dancing and Gina's clothing store",2.052622958086431,0.15384615384615385,0
+1,5,20,2,When did Gina get accepted for the design internship?,"27 May, 2023","11 May, 2023",1.096194292185828,0.6666666666666666,0
+1,10,20,2,When did Gina get accepted for the design internship?,"27 May, 2023","11 May, 2023",1.530332249822095,0.6666666666666666,0
+1,10,23,1,How did Gina promote her clothes store?,"worked with an artist to make unique fashion pieces, made limited-edition sweatshirts, got some new offers and promotions for online store, developed a video presentation showing how to style her pieces",ad campaign,2.1518998329993337,0.0,0
+1,5,23,1,How did Gina promote her clothes store?,"worked with an artist to make unique fashion pieces, made limited-edition sweatshirts, got some new offers and promotions for online store, developed a video presentation showing how to style her pieces",influencer collaborations and advertising,1.7911114590242505,0.06060606060606061,0
+1,5,24,1,Which events has Jon participated in to promote his business venture?,"fair, networking events, dance competition",networking events,1.4526049578562379,0.5714285714285714,0
+1,10,24,1,Which events has Jon participated in to promote his business venture?,"fair, networking events, dance competition",networking events,2.092118041822687,0.5714285714285714,0
+1,5,26,2,When did Jon receive mentorship to promote his venture?,"15 June, 2023","9 July, 2023",1.6079969168640673,0.3333333333333333,0
+1,10,26,2,When did Jon receive mentorship to promote his venture?,"15 June, 2023","1:25 pm on 9 July, 2023",1.469932209001854,0.2222222222222222,0
+1,10,27,1,Did Jon and Gina both participate in dance competitions?,Yes,"Yes, both participated in dance competitions",1.974814916960895,0.2857142857142857,0
+1,5,27,1,Did Jon and Gina both participate in dance competitions?,Yes,Yes,1.2789413328282535,1.0,1
+1,10,29,1,Which cities has Jon visited?,"Paris, Rome","Based on the context, there is no information about which cities Jon has visited.",1.605387292103842,0.0,0
+1,5,29,1,Which cities has Jon visited?,"Paris, Rome",Not mentioned in the context.,1.568737291963771,0.0,0
+1,5,30,2,When Jon is planning to open his dance studio?,"20 June, 2023",Still working on opening,1.739822250092402,0.0,0
+1,10,30,2,When Jon is planning to open his dance studio?,"20 June, 2023","19 June, 2023",2.1879872500430793,0.6666666666666666,0
+1,10,31,1,How long did it take for Jon to open his studio?,six months,long time,2.0610868339426816,0.0,0
+1,5,31,1,How long did it take for Jon to open his studio?,six months,Not specified,1.3155982920434326,0.0,0
+1,10,33,2,When did Jon visit networking events for his store?,"20 June, 2023","21 July, 2023",1.422820125008002,0.3333333333333333,0
+1,5,33,2,When did Jon visit networking events for his store?,"20 June, 2023",Yesterday,1.5843248330056667,0.0,0
+1,10,35,2,When did Jon start learning marketing and analytics tools?,"July, 2023","9 July, 2023",1.4638057500123978,0.8,0
+1,5,35,2,When did Jon start learning marketing and analytics tools?,"July, 2023","9 July, 2023",1.1381301251240075,0.8,0
+1,10,47,4,"What did Gina find for her clothing store on 1 February, 2023?",The perfect spot for her store,the perfect spot,1.8303864998742938,0.6666666666666666,0
+1,5,47,4,"What did Gina find for her clothing store on 1 February, 2023?",The perfect spot for her store,wholesalers,1.178636125056073,0.0,0
+1,10,51,4,What made Gina choose the furniture and decor for her store?,personal style and customer comfort,To make the place look like my own style and make my customers feel cozy,1.3917269580997527,0.2222222222222222,0
+1,5,51,4,What made Gina choose the furniture and decor for her store?,personal style and customer comfort,to make the place look like my own style and make my customers feel cozy,1.712998375063762,0.2222222222222222,0
+1,5,54,4,How is Gina's store doing?,The store is doing great.,great,1.4166999170556664,0.3333333333333333,0
+1,10,54,4,How is Gina's store doing?,The store is doing great.,looks great,1.7408069998491555,0.2857142857142857,0
+1,10,63,4,"What kind of professional experience did Gina get accepted for on May 23, 2023?",fashion internship,fashion internship,1.6569653749465942,1.0,1
+1,5,63,4,"What kind of professional experience did Gina get accepted for on May 23, 2023?",fashion internship,fashion internship,1.997069749981165,1.0,1
+1,5,64,4,Where is Gina's fashion internship?,fashion department of an international company,Not specified in the context,1.9090205829124898,0.0,0
+1,10,64,4,Where is Gina's fashion internship?,fashion department of an international company,Not specified in the context.,1.701704042032361,0.0,0
+1,10,65,4,What book is Jon currently reading?,The Lean Startup,Not mentioned in the context.,1.6783980000764132,0.25,0
+1,5,65,4,What book is Jon currently reading?,The Lean Startup,Not mentioned in the context,1.3720819167792797,0.25,0
+1,10,71,4,How does Gina describe the studio that Jon has opened?,amazing,amazing,1.400125333108008,1.0,1
+1,5,71,4,How does Gina describe the studio that Jon has opened?,amazing,The studio looks amazing,2.09475666587241,0.4,0
+1,5,74,4,What does Jon plan to do at the grand opening of his dance studio?,savor all the good vibes,Sorry to hear that! I'm starting a dance studio 'cause I'm passionate about dancing and it'd be great to share it with others.,1.464843292022124,0.0,0
+1,10,74,4,What does Jon plan to do at the grand opening of his dance studio?,savor all the good vibes,Not mentioned in the context,1.9712580419145525,0.2,0
+1,5,78,4,"According to Gina, what makes Jon a perfect mentor and guide?",His positivity and determination,Inspiring,1.6693714999128133,0.0,0
+1,10,78,4,"According to Gina, what makes Jon a perfect mentor and guide?",His positivity and determination,His willingness to take risks - it's really inspiring,2.2074026248883456,0.15384615384615385,0
+2,10,0,2,When Jon has lost his job as a banker?,"19 January, 2023","Yesterday, 19 January, 2023",2.001123792026192,0.8571428571428571,0
+2,5,0,2,When Jon has lost his job as a banker?,"19 January, 2023","20 January, 2023",2.0392690419685096,0.6666666666666666,0
+2,5,1,2,When Gina has lost her job at Door Dash?,"January, 2023","This month (20 January, 2023)",1.5089127919636667,0.2857142857142857,0
+2,10,1,2,When Gina has lost her job at Door Dash?,"January, 2023","This month (20 January, 2023)",1.8338759171310812,0.2857142857142857,0
+2,10,2,4,How do Jon and Gina both like to destress?,by dancing,Dance,1.6895992089994252,0.0,0
+2,5,2,4,How do Jon and Gina both like to destress?,by dancing,Dance,1.2566031671594828,0.0,0
+2,5,3,1,What do Jon and Gina both have in common?,They lost their jobs and decided to start their own businesses.,passionate about dancing,2.1212284578941762,0.0,0
+2,10,3,1,What do Jon and Gina both have in common?,They lost their jobs and decided to start their own businesses.,Dance is pretty much my go-to for stress relief,1.6090911659412086,0.0,0
+2,5,5,1,What Jon thinks the ideal dance studio should look like?,"By the water, with natural light and Marley flooring",by the water,2.03789862501435,0.5,0
+2,10,5,1,What Jon thinks the ideal dance studio should look like?,"By the water, with natural light and Marley flooring",A room with a view of the ocean and a few yoga mats,2.7529496671631932,0.3,0
+2,10,6,2,When is Jon's group performing at a festival?,"February, 2023",Next month,1.561294374987483,0.0,0
+2,5,6,2,When is Jon's group performing at a festival?,"February, 2023",Next month,1.6971965841948986,0.0,0
+2,5,9,1,Which city have both Jean and John visited?,Rome,Rome,1.6261870001908392,1.0,1
+2,10,9,1,Which city have both Jean and John visited?,Rome,Rome,2.1445118330884725,1.0,1
+2,5,11,2,When did Gina get her tattoo?,A few years ago,A few years ago,1.8398247500881553,1.0,1
+2,10,11,2,When did Gina get her tattoo?,A few years ago,A few years ago,2.039826041087508,1.0,1
+2,10,12,2,When did Jon start to go to the gym?,"March, 2023","Last week (16 March, 2023)",2.6876391670666635,0.2857142857142857,0
+2,5,12,2,When did Jon start to go to the gym?,"March, 2023",Not mentioned in the provided conversation.,1.8856097909156233,0.0,0
+2,5,17,1,Why did Gina decide to start her own clothing store?,She always loved fashion trends and finding unique pieces and she lost her job so decided it was time to start her own business.,lost her job at Door Dash,1.9451955840922892,0.2222222222222222,0
+2,10,17,1,Why did Gina decide to start her own clothing store?,She always loved fashion trends and finding unique pieces and she lost her job so decided it was time to start her own business.,lost her job at Door Dash,2.7295845828484744,0.2222222222222222,0
+2,10,18,1,Do Jon and Gina start businesses out of what they love?,Yes,passion,1.6089642920996994,0.0,0
+2,5,18,1,Do Jon and Gina start businesses out of what they love?,Yes,"Yes, they start businesses out of passion and dreams.",1.4437800419982523,0.2,0
+2,10,20,2,When did Gina get accepted for the design internship?,"27 May, 2023","11 May, 2023",1.8576102498918772,0.6666666666666666,0
+2,5,20,2,When did Gina get accepted for the design internship?,"27 May, 2023","11 May, 2023",1.6817901250906289,0.6666666666666666,0
+2,5,23,1,How did Gina promote her clothes store?,"worked with an artist to make unique fashion pieces, made limited-edition sweatshirts, got some new offers and promotions for online store, developed a video presentation showing how to style her pieces","working with some fashion bloggers and influencers in the next few months to get more attention for my store. Plus, I'm going to do more ads so I can reach more people.",2.0873282910324633,0.2413793103448276,0
+2,10,23,1,How did Gina promote her clothes store?,"worked with an artist to make unique fashion pieces, made limited-edition sweatshirts, got some new offers and promotions for online store, developed a video presentation showing how to style her pieces",ad campaign,1.7839008748997003,0.0,0
+2,10,24,1,Which events has Jon participated in to promote his business venture?,"fair, networking events, dance competition",networking events,1.7852135840803385,0.5714285714285714,0
+2,5,24,1,Which events has Jon participated in to promote his business venture?,"fair, networking events, dance competition",networking event,2.2871921248733997,0.2857142857142857,0
+2,10,26,2,When did Jon receive mentorship to promote his venture?,"15 June, 2023","16 June, 2023",1.8402370419353247,0.6666666666666666,0
+2,5,26,2,When did Jon receive mentorship to promote his venture?,"15 June, 2023","16 June, 2023",1.538852792000398,0.6666666666666666,0
+2,5,27,1,Did Jon and Gina both participate in dance competitions?,Yes,"Yes, they both participated in dance competitions.",1.7052828329615295,0.25,0
+2,10,27,1,Did Jon and Gina both participate in dance competitions?,Yes,"No, Gina hasn't been in dance comps or shows",1.7320397910661995,0.0,0
+2,5,29,1,Which cities has Jon visited?,"Paris, Rome",No cities mentioned in the context.,1.8561025420203805,0.0,0
+2,10,29,1,Which cities has Jon visited?,"Paris, Rome","Based on the context, there is no information about which cities Jon has visited.",1.9650198330637068,0.0,0
+2,10,30,2,When Jon is planning to open his dance studio?,"20 June, 2023","19 June, 2023",2.269270332995802,0.6666666666666666,0
+2,5,30,2,When Jon is planning to open his dance studio?,"20 June, 2023","19 June, 2023",1.8159620419610292,0.6666666666666666,0
+2,5,31,1,How long did it take for Jon to open his studio?,six months,Since they last spoke,1.8166776658035815,0.0,0
+2,10,31,1,How long did it take for Jon to open his studio?,six months,Been bumpy,2.298759875120595,0.0,0
+2,5,33,2,When did Jon visit networking events for his store?,"20 June, 2023","21 June, 2023",2.049584916094318,0.6666666666666666,0
+2,10,33,2,When did Jon visit networking events for his store?,"20 June, 2023",Yesterday,1.5340312919579446,0.0,0
+2,5,35,2,When did Jon start learning marketing and analytics tools?,"July, 2023","9 July, 2023",1.8445326669607311,0.8,0
+2,10,35,2,When did Jon start learning marketing and analytics tools?,"July, 2023","9 July, 2023",1.839896542020142,0.8,0
+2,5,47,4,"What did Gina find for her clothing store on 1 February, 2023?",The perfect spot for her store,a wholesaler who said yes,1.8472265421878546,0.0,0
+2,10,47,4,"What did Gina find for her clothing store on 1 February, 2023?",The perfect spot for her store,a wholesaler,1.6548139159567654,0.0,0
+2,5,51,4,What made Gina choose the furniture and decor for her store?,personal style and customer comfort,To make the place look like her own style and make her customers feel cozy,2.405544334091246,0.2222222222222222,0
+2,10,51,4,What made Gina choose the furniture and decor for her store?,personal style and customer comfort,to make the place look like her own style and make her customers feel cozy,2.130693083163351,0.2222222222222222,0
+2,10,54,4,How is Gina's store doing?,The store is doing great.,doing great! It's a wild ride,1.9946362089831382,0.36363636363636365,0
+2,5,54,4,How is Gina's store doing?,The store is doing great.,great,1.8742612500209361,0.3333333333333333,0
+2,5,63,4,"What kind of professional experience did Gina get accepted for on May 23, 2023?",fashion internship,fashion internship,2.1573043330572546,1.0,1
+2,10,63,4,"What kind of professional experience did Gina get accepted for on May 23, 2023?",fashion internship,fashion internship,2.639769875211641,1.0,1
+2,10,64,4,Where is Gina's fashion internship?,fashion department of an international company,Not specified in the context,2.4582882078830153,0.0,0
+2,5,64,4,Where is Gina's fashion internship?,fashion department of an international company,Not specified in the context,1.7943560001440346,0.0,0
+2,5,65,4,What book is Jon currently reading?,The Lean Startup,Not mentioned in the context,1.5125206669326872,0.25,0
+2,10,65,4,What book is Jon currently reading?,The Lean Startup,Not mentioned in the context.,1.253507792018354,0.25,0
+2,5,71,4,How does Gina describe the studio that Jon has opened?,amazing,awesome,1.9489473749417812,0.0,0
+2,10,71,4,How does Gina describe the studio that Jon has opened?,amazing,amazing,1.5999013748951256,1.0,1
+2,10,74,4,What does Jon plan to do at the grand opening of his dance studio?,savor all the good vibes,working hard to make everything just right,2.079123582923785,0.0,0
+2,5,74,4,What does Jon plan to do at the grand opening of his dance studio?,savor all the good vibes,bring their best moves for an awesome night of performances and judging,1.4999999580904841,0.0,0
+2,10,78,4,"According to Gina, what makes Jon a perfect mentor and guide?",His positivity and determination,He has come so far since we last talked,2.117966374848038,0.0,0
+2,5,78,4,"According to Gina, what makes Jon a perfect mentor and guide?",His positivity and determination,His positivity and determination,2.1418900000862777,1.0,1

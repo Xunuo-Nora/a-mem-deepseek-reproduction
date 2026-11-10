@@ -2,7 +2,7 @@
 
 FTEC5660 individual reproducibility study by XU Nuo.
 
-**Status: experiment in progress. No final results yet.**
+**Status: complete. 369 memory turns, 30 questions, 180 scored answers.**
 
 This repository runs the author's A-MEM memory pipeline on one full LoCoMo conversation, then compares retrieval k=10 and k=5 with three QA repetitions per arm. It is a partial reproduction under a different model and evaluation subset, not a claim to match the full paper.
 
@@ -58,3 +58,16 @@ Metrics: upstream token-set F1, lowercase exact match, wall time and API tokens.
 `results/study_calls.jsonl`: API token usage and timing.
 
 `results/summary.json` and `results/predictions.csv`: generated only after a complete, duplicate-free run.
+
+## Measured results
+
+| Metric | k=10 | k=5 |
+|---|---:|---:|
+| Mean F1 (%) | 34.59 | 33.49 |
+| Exact match (%) | 12.22 | 11.11 |
+| QA input tokens | 1,230,702 | 617,608 |
+| Mean QA seconds | 1.85 | 1.71 |
+
+Reducing k lowered QA input tokens by 49.82%, with a 1.10 percentage-point reduction in mean F1. This is descriptive evidence on one conversation, not a significance claim. Category 3 is absent from the selected conversation; the final sample contains ten questions each from categories 1, 2 and 4. The loader reports sample index 1, corresponding to original sample_id conv-30.
+
+Conservative study cost: CNY 6.84, excluding pilots and an interrupted request with no returned usage. See results/summary.json, predictions.csv and usage.csv. Full local API response usage metadata remains available in the original workspace.

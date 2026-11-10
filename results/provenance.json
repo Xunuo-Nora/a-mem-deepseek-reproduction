@@ -1,0 +1,14 @@
+{
+  "upstream_commit": "f9a173dec325d84fcc97e7828775c7b241c33466",
+  "experiment_commit": "65324c9",
+  "platform": "macOS-26.6.2-arm64-arm-64bit",
+  "machine": "arm64",
+  "python": "Python 3.12.10",
+  "dataset_sha256": "79fa87e90f04081343b8c8debecb80a9a6842b76a7aa537dc9fdf651ea698ff4",
+  "runner_sha256": "0e4ad73937190a91a9b8de6676ea7e8ed6a2ce61a51d2a603a7adf87101a4f3d",
+  "model_alias": "deepseek-flash",
+  "documented_model_version": "DeepSeek-V4.1-Flash-1017",
+  "model_version_source": "https://api-docs.deepseek.com/quick_start/pricing/",
+  "endpoint": "https://api.deepseek.com",
+  "public_repository": "https://github.com/Xunuo-Nora/a-mem-deepseek-reproduction"
+}

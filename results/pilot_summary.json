@@ -1,0 +1,10 @@
+{
+  "notes": 5,
+  "calls": 13,
+  "seconds": 69.25949279218912,
+  "prompt_tokens": 5760,
+  "completion_tokens": 6113,
+  "failures": {
+    "evolve": 2
+  }
+}
