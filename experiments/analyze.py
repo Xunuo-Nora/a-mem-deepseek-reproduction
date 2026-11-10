@@ -10,7 +10,14 @@ actual=[(r['trial'],r['k'],r['question_index']) for r in rows]
 assert len(actual)==len(set(actual)), 'Duplicate experiment rows'
 assert set(actual)==expected, f'Incomplete: {len(set(actual))}/{len(expected)}'
 assert all(0<=r['f1']<=1 for r in rows)
-calls=[json.loads(l) for l in (out/'study_calls.jsonl').read_text().splitlines()]
+if (out/'study_calls.jsonl').exists():
+ calls=[json.loads(l) for l in (out/'study_calls.jsonl').read_text().splitlines()]
+else:
+ with (out/'usage.csv').open(newline='') as f:
+  calls=[{'phase':r['phase'], 'k':int(r['k']) if r['k'] else None,
+          'usage':{'prompt_tokens':int(r['prompt_tokens']),
+                   'completion_tokens':int(r['completion_tokens'])}}
+         for r in csv.DictReader(f)]
 summary={'sample_id':m['sample_id'],'questions':len(m['question_indices']),'arms':{},'build':{}}
 for k in m['ks']:
  a=[r for r in rows if r['k']==k]
