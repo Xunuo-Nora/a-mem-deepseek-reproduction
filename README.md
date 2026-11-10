@@ -55,7 +55,9 @@ Metrics: upstream token-set F1, lowercase exact match, wall time and API tokens.
 
 `results/predictions.jsonl`: per-question outputs and scores.
 
-`results/study_calls.jsonl`: API token usage and timing.
+`results/usage.csv`: published API token usage and timing. `results/study_calls.jsonl` is generated locally during a new run and is not included in the public repository. The analyzer falls back to the published CSV when this local file is absent.
+
+To recompute the published results without API calls, run `python3 experiments/analyze.py` immediately after cloning. This uses only Python's standard library and the included result files.
 
 `results/summary.json` and `results/predictions.csv`: generated only after a complete, duplicate-free run.
 
